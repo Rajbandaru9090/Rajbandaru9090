@@ -1,44 +1,65 @@
-<h1 align="center">Hi 👋, I'm Rajbandaru</h1>
-<h3 align="center">🚀 AI x Data Engineer | GPT-Powered App Builder | SQL + Cloud Ninja</h3>
-
+<h1 align="center">Hi, I'm Raj 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajbandaru9090&label=Profile+Views" alt="views" />
+  <b>🚀 AI x Data Engineer | GPT-Powered App Builder | SQL + Cloud Enthusiast</b><br>
+  🎯 Focused on real-world AI projects using <strong>GPT-4</strong>, <strong>Databricks</strong>, <strong>Streamlit</strong>, <strong>PostgreSQL</strong> & <strong>AWS</strong>
 </p>
 
 ---
 
-### 💼 Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [💼 AI Resume Screener](https://ai-resume-screener-gkoqrvoaywyqr39qmxqrtt.streamlit.app/) | GPT-4, Streamlit, Pandas | AI-powered resume matcher with visual skill gaps |
-| [🛒 RetailX Fraud AI](https://databricksfraudai-eabvl6ka4zbnpwegezffec.streamlit.app/) | Databricks, Streamlit, SQL | GPT-powered fraud detection over 3M orders |
-| [☁️ AWS Mini Projects](AWS) | CLI, EC2, S3 | Small cloud automations with hands-on CLI |
-| [📊 SQL LeetCode]() | PostgreSQL, LeetCode | Daily problem-solving in structured SQL |
-
----
-
-### 🧠 Skills & Tools
-
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EF4E2E)
-![GPT](https://img.shields.io/badge/OpenAI-GPT4-blueviolet)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![SQL](https://img.shields.io/badge/SQL-blue)
-
----
-
-### 📈 GitHub Stats
+## ✨ Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajbandaru9090&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajbandaru9090&layout=compact&theme=radical" height="180" />
+  <a href="https://ai-resume-screener-gkoqrvoaywyqr39qmxqrtt.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20AI%20Resume%20Screener-Streamlit-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+  <br>
+  <sub>GPT-powered resume matcher with visual skill gap detection</sub>
+</p>
+
+<p align="center">
+  <a href="https://databricksfraudai-eabvl6ka4zbnpwegezffec.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🛒%20RetailX%20Fraud%20AI-Databricks-red?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+  <br>
+  <sub>Retail fraud detection using GPT + Databricks over 3M records</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rajbandaru9090/aws_mini_projects" target="_blank">
+    <img src="https://img.shields.io/badge/☁️%20AWS%20Mini%20Projects-CLI-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <br>
+  <sub>Mini CLI-based cloud automations using EC2, S3 & IAM</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rajbandaru9090/sql-leetcode-solutions" target="_blank">
+    <img src="https://img.shields.io/badge/📊%20SQL%20LeetCode-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <br>
+  <sub>150+ real-world SQL problems using PostgreSQL</sub>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 💡 Tools & Technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/YOUR-USERNAME)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-EF4E2E?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-GPT4-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Blue?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
